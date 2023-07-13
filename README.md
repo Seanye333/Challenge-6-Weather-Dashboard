@@ -18,13 +18,13 @@ The sequence of operation is described below:
 8. Add a city to search history
 9. Initialize the weather dashboard
 
-From this assignment: I learned how to use Jquery to store data to local storage, persist the saved local storage, utilize bootstrap layouts, and apply Dom Traversal, etc. 
+From this assignment: I learned how to store data to local storage, persist the saved local storage, apply API etc. 
 
 ## Installation
 To install this project within your computer, please follow the instruction below
 1. Open git bash
 2. Create your own file
-3. To clone the repository: type in git clone https://github.com/Seanye333/Challenge-5-Planner-with-Timeblocks
+3. To clone the repository: type in git clone https://github.com/Seanye333/Challenge-6-Weather-Dashboard/
 4. Navigate to the project directory: cd <project_directory>
 5. Open the file in the web browser: open index.html
 6. Website will display on your default browser
